@@ -1,0 +1,13 @@
+# Folders
+.idea/
+.settings/
+bin/
+strings/
+wz/
+!resources/bin/
+
+# Files
+*.classpath
+*.project
+Mushy.iml
+dat/
